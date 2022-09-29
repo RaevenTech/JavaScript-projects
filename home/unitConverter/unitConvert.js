@@ -4,6 +4,7 @@ const lengthEl = document.getElementById("length_el");
 const volumeEl = document.getElementById("volume_el");
 const massEl = document.getElementById("mass_el");
 const clearBtn = document.getElementById("clear_btn");
+const homeBtn = document.getElementById("home_btn");
 
 const meterToFeet = 3.281;
 const literToGallon = 0.264;
