@@ -33,8 +33,11 @@ main{
     padding-top: 30px;
     margin: 0px;
 }
-small {
-    font-family: 'Inter Tight', sans-serif ;
+.tech_logo {
+    color: whitesmoke;
+    font-size:30px ;
+    font-family: 'Inter Tight', sans-serif;
+   
 }
 #home_btn {
     color: gray;
